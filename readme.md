@@ -19,4 +19,4 @@ Mac OS из коробки предоставляет своё изобрете�
 ![shift](./assets/shift.png)
 
 > OPTION
-![option](./assets/default.png)
+![option](./assets/option.png)
